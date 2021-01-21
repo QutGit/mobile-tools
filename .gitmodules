@@ -1,0 +1,3 @@
+[submodule "library"]
+	path = library
+	url = git@git.iqdnet.cn:FED/react-library.git
